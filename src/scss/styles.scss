@@ -34,6 +34,12 @@ a{
 .header{
     padding: 10vh;
 }
+.subheader{
+    padding-bottom: 25vh;
+    #image-list{
+        margin-left: -2vw;
+    }
+}
 .source-list{
     padding-top: 5vh;
     text-align: center;
