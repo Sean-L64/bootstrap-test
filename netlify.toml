@@ -1,0 +1,7 @@
+[build]
+  publish = "dist"  # The folder where Vite outputs the build
+
+[[redirects]]
+  from = "/vanilla-bite"
+  to = "/vanilla-bite.html"
+  status = 200
